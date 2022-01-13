@@ -2,7 +2,7 @@
 
 <h3>Requirements</h3>
 
-- NodeJS installed in the machine
+- NodeJS installed on the machine
 
 <h3>Steps to execute</h3>
 
