@@ -1,4 +1,4 @@
-<H1>How to install and run automated tests to Smart Reporting Challenge</h1>
+<H1>How to install and run automated Smart Reporting Challenge test</h1>
 
 <h3>Requirements</h3>
 
