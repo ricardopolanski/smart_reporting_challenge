@@ -21,7 +21,7 @@
 
 <h3>About the project</h3>
 
-The project was developed using [Cypress](https://www.npmjs.com/package/cypress "Cypress") Framework and Gherkin syntax.
+The project was developed using [Cypress](https://www.npmjs.com/package/cypress "Cypress") Framework and [Gherkin Syntax](https://cucumber.io/docs/gherkin/ "Gherkin Syntax").
 Was writen four scenarios as following:
   1. Add Computers
   2. Delete Computers
