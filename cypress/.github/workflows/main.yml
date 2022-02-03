@@ -2,6 +2,7 @@
 # https://help.github.com/en/articles/configuring-a-workflow
 name: Smart Reporting Challenge
 
+
 on: push
 
 jobs:
