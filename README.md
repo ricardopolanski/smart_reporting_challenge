@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <H1>How to install and run automated Smart Reporting Challenge test</h1>
 
 <h3>Requirements</h3>
@@ -49,3 +50,6 @@ Was writen four scenarios as following:
 │                   ┗ 📜commonFunctions.js            # Common Functions
 │                   ┗ 📜commonSteps.js                # Common Steps
 </pre>
+=======
+# smart_reporting_challenge
+>>>>>>> ec1fdf07bcf54199e12ba574c96b5580e6ae63a4
